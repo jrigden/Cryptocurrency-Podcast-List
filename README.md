@@ -19,13 +19,14 @@ This is a list of all the podcast about cryptocurrency and the blockchain. This 
 **[Crypto 101](https://crypto101podcast.com/)**  
 **[Crypto and Blockchain Talk](http://cryptoandblockchaintalk.com/)**  
 **[Cryptoknights](https://cryptoknights.io/)**  
-**[Altcoin Fool](http://www.altcoinfool.com/)**  
+**[Cryptopulse](https://www.cryptopulse.co.uk/)**  
 **[CryptoBasics](https://www.cryptobasicpodcast.com/)**  
 **[Crypto Show](https://thecryptoshow.com/)**  
+**[The Doug Polk Podcast](https://dougpolk.podbean.com/)**  
 **[Flippening](https://itunes.apple.com/us/podcast/flippening-for-cryptocurrency-investors-bitcoin-ethereum/id1323372565?mt=2)**  
 **[ICO 101](http://ico101podcast.com/)**  
 **[ICO Alert](https://itunes.apple.com/us/podcast/ico-alert-podcast-cryptocurrency-blockchain-ico-interviews/id1247296251?mt=2&l=en&ign-mpt=uo%3D4)**  
-**[Let's Talk Bitcoin](https://itunes.apple.com/us/podcast/the-lets-talk-bitcoin-network/id640581455?mt=2&ign-mpt=uo%3D4)**  
+**[Let's Talk Bitcoin](https://itunes.apple.com/us/podcast/the-lets-talk-bitcoin-network/id640581455?mt=2&ign-mpt=uo%3D4)** **[Ledger Cast](https://itunes.apple.com/us/podcast/ledger-cast-cryptocurrency-trading-blockchain-ecosystem/id1322087447)**  
 **[The Third Web](https://itunes.apple.com/us/podcast/the-third-web/id899090462?mt=2)**  
 **[Thriller Crypto](https://www.thrillerpodcast.club/)**  
 
@@ -37,18 +38,18 @@ This is a list of all the podcast about cryptocurrency and the blockchain. This 
 **[The Trader Cobb Crypto Podcast](https://itunes.apple.com/us/podcast/the-trader-cobb-crypto-podcast/id1353597533?mt=2&ign-mpt=uo%3D4)**  
 
 
-## Podcasts from Cryptocurrency and the Blockchain Related Companies 
+## Podcasts from Cryptocurrency and Blockchain Related Companies 
 
 **[Tenta Podcast](https://anchor.fm/tenta)**
 
-## Podcasts with Cryptocurrency and the Blockcradiohain Interviews 
+## Podcasts with Cryptocurrency and Blockchain Interviews 
 
 **[The Bitcoin Knowledge Podcast](https://itunes.apple.com/us/podcast/the-bitcoin-knowledge-podcast/id301670981?mt=2)**  
 **[Block Zero](http://www.blockzero.show/)**  
 **[Blockchain Conversations with Sean Johnston](https://itunes.apple.com/us/podcast/blockchain-conversations-with-sean-johnston/id1437328236?mt=2)**  
 **[Crypto Disrupted](https://cryptodisrupted.podbean.com/)**  
-
 **[Crypto Street](https://cryptostreetpod.podbean.com/)**  
+**[Crypto Talks](https://anialexander.com/crytotalks/)**  
 **[Crypto Voices](https://cryptovoices.com/)**  
 **[Epicenter](https://epicenter.tv/)**  
 **[Talking Cryptocurrency](https://jasonrigden.com/categories/talking-cryptocurrency/)**  
@@ -78,6 +79,9 @@ This is a list of all the podcast about cryptocurrency and the blockchain. This 
 **[Blockchain Dynamics](https://itunes.apple.com/us/podcast/blockchain-dynamics/id1112723247?mt=2)**  
 **[Captain Crypto Show](https://itunes.apple.com/us/podcast/captain-crypto-show/id1270895089?mt=2)**  
 **[CRYPTO CURRENCY NOW](https://anchor.fm/crypto-currency-now)**  
+**[Crypto Radio](http://cryptoradio.io/)**  
+**[Crypto Starship](https://www.cryptostarship.ai/)**  
+**[Cup of Crypto](http://www.cupofcrypto.com/)**  
 
 
 ## FAQ
