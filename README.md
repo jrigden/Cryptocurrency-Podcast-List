@@ -8,12 +8,16 @@ This is a list of all the podcast about cryptocurrency and the blockchain. This 
 **[Beyond Bitcoin Community](https://itunes.apple.com/us/podcast/beyond-bitcoin-community/id1005806033?mt=2&ign-mpt=uo%3D4)** 
 **[Bitcoin & Markets](https://itunes.apple.com/us/podcast/bitcoin-markets-with-ansel-lindner/id1117715109?mt=2&ign-mpt=uo%3D4)**  
 **[The Bitcoin Game](https://itunes.apple.com/us/podcast/the-bitcoin-game/id934243681?mt=2&ign-mpt=uo%3D4)**  
+**[The Bitcoin Group](https://worldcryptonetwork.com/shows/the-bitcoin-group)**  
 **[The Bitcoin Podcast](https://thebitcoinpodcast.com/)**  
 **[Bitcoins and Gravy](http://bitcoinsandgravy.com/)**  
+**[Blockchain 2025](https://podcast.bitcoin.com/s9-Blockchain-2025)**  
 **[Blockchain Buzz](https://www.theblockchain-buzz.com/)**  
 **[The Blockchain Show](https://www.theblockchainshow.com/)**  
+**[Coin DMZ](https://kenradio.podbean.com/)**  
 **[COIN TALK](https://itunes.apple.com/us/podcast/coin-talk/id1332061471?mt=2)**  
 **[Crypto 101](https://crypto101podcast.com/)**  
+**[Crypto and Blockchain Talk](http://cryptoandblockchaintalk.com/)**  
 **[Cryptoknights](https://cryptoknights.io/)**  
 **[Altcoin Fool](http://www.altcoinfool.com/)**  
 **[CryptoBasics](https://www.cryptobasicpodcast.com/)**  
@@ -37,11 +41,13 @@ This is a list of all the podcast about cryptocurrency and the blockchain. This 
 
 **[Tenta Podcast](https://anchor.fm/tenta)**
 
-## Podcasts with Cryptocurrency and the Blockchain Interviews 
+## Podcasts with Cryptocurrency and the Blockcradiohain Interviews 
 
 **[The Bitcoin Knowledge Podcast](https://itunes.apple.com/us/podcast/the-bitcoin-knowledge-podcast/id301670981?mt=2)**  
 **[Block Zero](http://www.blockzero.show/)**  
 **[Blockchain Conversations with Sean Johnston](https://itunes.apple.com/us/podcast/blockchain-conversations-with-sean-johnston/id1437328236?mt=2)**  
+**[Crypto Disrupted](https://cryptodisrupted.podbean.com/)**  
+
 **[Crypto Street](https://cryptostreetpod.podbean.com/)**  
 **[Crypto Voices](https://cryptovoices.com/)**  
 **[Epicenter](https://epicenter.tv/)**  
@@ -66,7 +72,12 @@ This is a list of all the podcast about cryptocurrency and the blockchain. This 
 ## Inactive Podcasts about Cryptocurrency and the Blockchain 
 
 **[Bitcoin Uncensored](https://itunes.apple.com/us/podcast/bitcoin-uncensored/id1046414365?mt=2)**  
+**[Block That Chain](http://blockthatchain.blubrry.net/)**  
+**[Blockchain Billions](https://blockchainbillionspodcast.com/)**  
+**[Blockchain 360](http://www.blockchain-360.com/)**  
 **[Blockchain Dynamics](https://itunes.apple.com/us/podcast/blockchain-dynamics/id1112723247?mt=2)**  
+**[Captain Crypto Show](https://itunes.apple.com/us/podcast/captain-crypto-show/id1270895089?mt=2)**  
+**[CRYPTO CURRENCY NOW](https://anchor.fm/crypto-currency-now)**  
 
 
 ## FAQ
