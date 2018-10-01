@@ -29,13 +29,14 @@ This is a list of all the podcast about cryptocurrency and the blockchain. This 
 **[Let's Talk Bitcoin](https://itunes.apple.com/us/podcast/the-lets-talk-bitcoin-network/id640581455?mt=2&ign-mpt=uo%3D4)** **[Ledger Cast](https://itunes.apple.com/us/podcast/ledger-cast-cryptocurrency-trading-blockchain-ecosystem/id1322087447)**  
 **[The Third Web](https://itunes.apple.com/us/podcast/the-third-web/id899090462?mt=2)**  
 **[Thriller Crypto](https://www.thrillerpodcast.club/)**  
+**[Today in Bitcoin](https://itunes.apple.com/us/podcast/the-third-web/id899090462?mt=2)**  
 
 
 ## Podcasts about Cryptocurrency Investing and Trading 
 
 **[Coin Mastery](https://itunes.apple.com/us/podcast/coin-mastery-building-your-cryptocurrency-empire/id1251624136?mt=2)**  
 **[Sane Crypto](https://sanecrypto.com/podcast/)**  
-**[The Trader Cobb Crypto Podcast](https://itunes.apple.com/us/podcast/the-trader-cobb-crypto-podcast/id1353597533?mt=2&ign-mpt=uo%3D4)**  
+**[The Trader Cobb Crypto Podcast](https://worldcryptonetwork.com/shows/today-in-bitcoin)**  
 
 
 ## Podcasts from Cryptocurrency and Blockchain Related Companies 
