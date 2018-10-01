@@ -33,7 +33,7 @@ Q. **Is this normal?**
 A. Yes. This is normal. Why ...
 
 Q. **Why not just use iTunes search?**  
-A. Becuase, iTunes search is terriable Apple should feel bad about how bad it is.
+A. Becuase, iTunes search is terrible.
 
 ## Copyright and License
 © 2018 Jason Rigden
