@@ -10,6 +10,7 @@ This is a list of all the podcast about cryptocurrency and the blockchain. This 
 **[The Bitcoin Game](https://itunes.apple.com/us/podcast/the-bitcoin-game/id934243681?mt=2&ign-mpt=uo%3D4)**  
 **[The Bitcoin Podcast](https://thebitcoinpodcast.com/)**  
 **[Bitcoins and Gravy](http://bitcoinsandgravy.com/)**  
+**[Blockchain Buzz](https://www.theblockchain-buzz.com/)**  
 **[The Blockchain Show](https://www.theblockchainshow.com/)**  
 **[COIN TALK](https://itunes.apple.com/us/podcast/coin-talk/id1332061471?mt=2)**  
 **[Crypto 101](https://crypto101podcast.com/)**  
@@ -32,12 +33,15 @@ This is a list of all the podcast about cryptocurrency and the blockchain. This 
 **[The Trader Cobb Crypto Podcast](https://itunes.apple.com/us/podcast/the-trader-cobb-crypto-podcast/id1353597533?mt=2&ign-mpt=uo%3D4)**  
 
 
-## Podcasts from Cryptocurrency and the Blockchain Companies 
+## Podcasts from Cryptocurrency and the Blockchain Related Companies 
+
+**[Tenta Podcast](https://anchor.fm/tenta)**
 
 ## Podcasts with Cryptocurrency and the Blockchain Interviews 
 
 **[The Bitcoin Knowledge Podcast](https://itunes.apple.com/us/podcast/the-bitcoin-knowledge-podcast/id301670981?mt=2)**  
 **[Block Zero](http://www.blockzero.show/)**  
+**[Blockchain Conversations with Sean Johnston](https://itunes.apple.com/us/podcast/blockchain-conversations-with-sean-johnston/id1437328236?mt=2)**  
 **[Crypto Street](https://cryptostreetpod.podbean.com/)**  
 **[Crypto Voices](https://cryptovoices.com/)**  
 **[Epicenter](https://epicenter.tv/)**  
