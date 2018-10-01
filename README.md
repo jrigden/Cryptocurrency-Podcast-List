@@ -61,11 +61,8 @@ This is a list of all the podcast about cryptocurrency and the blockchain. This 
 ## Podcasts with Cryptocurrency and the Blockchain News 
 
 **[Blockchain Insider by 11:FS](https://bi.11fs.com/)**  
-**[Crypto Weekly](https://itunes.apple.com/us/podcast/crypto-weekly-cryptocurrency-bitcoin-ethereum-altcoin/id1351749137?mt=2&ign-mpt=uHello,
-
-I’m Jason Rigden and I’m working on a list of all the cryptocurrency and blockchain podcasts. I’ve got about 70+ shows. I’ve already included your show. But, I thought I should reach out to you because you might know about shows that I may have missed.
-
-The list is on GitHub and has been released with a creative commons license. The Cryptocurrency Podcast List. I’d love to hear any comments or suggestions.o%3D4)**  
+**[Crypto Weekly](https://itunes.apple.com/us/podcast/crypto-weekly-cryptocurrency-bitcoin-ethereum-altcoin/id1351749137?mt=2&ign-mpt=uHello)**  
+**[Crypto Weekly](https://itunes.apple.com/us/podcast/crypto-weekly-cryptocurrency-bitcoin-ethereum-altcoin/id1351749137?mt=2&ign-mpt=uo%3D4)**   
 **[Daily Crypto](https://itunes.apple.com/us/podcast/daily-crypto-bitcoin-blockchain-ethereum-altcoin-digital/id1281929760?mt=2)**  
 **[HODL Daily](https://itunes.apple.com/us/podcast/hodl-daily-bitcoin-blockchain-cryptocurrency-ethereum/id1309178056?mt=2)**  
 
