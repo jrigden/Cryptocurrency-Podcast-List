@@ -3,24 +3,32 @@ This is a list of all the podcast about cryptocurrency and the blockchain. This 
 
 ## Podcasts about Cryptocurrency and the Blockchain 
 
+**[Altcoin Fool](http://www.altcoinfool.com/)**  
 **[The Bad Crypto Podcast](https://badcryptopodcast.com/)**  
 **[Beyond Bitcoin Community](https://itunes.apple.com/us/podcast/beyond-bitcoin-community/id1005806033?mt=2&ign-mpt=uo%3D4)** 
 **[Bitcoin & Markets](https://itunes.apple.com/us/podcast/bitcoin-markets-with-ansel-lindner/id1117715109?mt=2&ign-mpt=uo%3D4)**  
 **[The Bitcoin Game](https://itunes.apple.com/us/podcast/the-bitcoin-game/id934243681?mt=2&ign-mpt=uo%3D4)**  
 **[The Bitcoin Podcast](https://thebitcoinpodcast.com/)**  
 **[Bitcoins and Gravy](http://bitcoinsandgravy.com/)**  
+**[The Blockchain Show](https://www.theblockchainshow.com/)**  
 **[COIN TALK](https://itunes.apple.com/us/podcast/coin-talk/id1332061471?mt=2)**  
 **[Crypto 101](https://crypto101podcast.com/)**  
+**[Cryptoknights](https://cryptoknights.io/)**  
+**[Altcoin Fool](http://www.altcoinfool.com/)**  
+**[CryptoBasics](https://www.cryptobasicpodcast.com/)**  
 **[Crypto Show](https://thecryptoshow.com/)**  
+**[Flippening](https://itunes.apple.com/us/podcast/flippening-for-cryptocurrency-investors-bitcoin-ethereum/id1323372565?mt=2)**  
 **[ICO 101](http://ico101podcast.com/)**  
 **[ICO Alert](https://itunes.apple.com/us/podcast/ico-alert-podcast-cryptocurrency-blockchain-ico-interviews/id1247296251?mt=2&l=en&ign-mpt=uo%3D4)**  
 **[Let's Talk Bitcoin](https://itunes.apple.com/us/podcast/the-lets-talk-bitcoin-network/id640581455?mt=2&ign-mpt=uo%3D4)**  
 **[The Third Web](https://itunes.apple.com/us/podcast/the-third-web/id899090462?mt=2)**  
+**[Thriller Crypto](https://www.thrillerpodcast.club/)**  
 
 
 ## Podcasts about Cryptocurrency Investing and Trading 
 
 **[Coin Mastery](https://itunes.apple.com/us/podcast/coin-mastery-building-your-cryptocurrency-empire/id1251624136?mt=2)**  
+**[Sane Crypto](https://sanecrypto.com/podcast/)**  
 **[The Trader Cobb Crypto Podcast](https://itunes.apple.com/us/podcast/the-trader-cobb-crypto-podcast/id1353597533?mt=2&ign-mpt=uo%3D4)**  
 
 
@@ -28,17 +36,23 @@ This is a list of all the podcast about cryptocurrency and the blockchain. This 
 
 ## Podcasts with Cryptocurrency and the Blockchain Interviews 
 
+**[The Bitcoin Knowledge Podcast](https://itunes.apple.com/us/podcast/the-bitcoin-knowledge-podcast/id301670981?mt=2)**  
 **[Block Zero](http://www.blockzero.show/)**  
 **[Crypto Street](https://cryptostreetpod.podbean.com/)**  
 **[Crypto Voices](https://cryptovoices.com/)**  
 **[Epicenter](https://epicenter.tv/)**  
 **[Talking Cryptocurrency](https://jasonrigden.com/categories/talking-cryptocurrency/)**  
 **[Unchained](http://unchainedpodcast.co/)**  
+**[Unconfirmed](https://unconfirmed.libsyn.com/)**  
+
 
 ## Podcasts with Cryptocurrency and the Blockchain News 
 
+**[Blockchain Insider by 11:FS](https://bi.11fs.com/)**  
 **[Crypto Weekly](https://itunes.apple.com/us/podcast/crypto-weekly-cryptocurrency-bitcoin-ethereum-altcoin/id1351749137?mt=2&ign-mpt=uo%3D4)**  
 **[Daily Crypto](https://itunes.apple.com/us/podcast/daily-crypto-bitcoin-blockchain-ethereum-altcoin-digital/id1281929760?mt=2)**  
+**[HODL Daily](https://itunes.apple.com/us/podcast/hodl-daily-bitcoin-blockchain-cryptocurrency-ethereum/id1309178056?mt=2)**  
+
 
 
 ## Podcasts about Specific Cryptocurrencies
@@ -48,6 +62,7 @@ This is a list of all the podcast about cryptocurrency and the blockchain. This 
 ## Inactive Podcasts about Cryptocurrency and the Blockchain 
 
 **[Bitcoin Uncensored](https://itunes.apple.com/us/podcast/bitcoin-uncensored/id1046414365?mt=2)**  
+**[Blockchain Dynamics](https://itunes.apple.com/us/podcast/blockchain-dynamics/id1112723247?mt=2)**  
 
 
 ## FAQ
