@@ -67,9 +67,6 @@ This is a list of all the podcast about cryptocurrency and the blockchain. This 
 
 
 
-## Podcasts about Specific Cryptocurrencies
-
-### Bitcoin
 
 ## Inactive Podcasts about Cryptocurrency and the Blockchain 
 
