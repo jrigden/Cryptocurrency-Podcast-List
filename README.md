@@ -82,6 +82,7 @@ This is a list of all the podcast about cryptocurrency and the blockchain. This 
 **[Crypto Radio](http://cryptoradio.io/)**  
 **[Crypto Starship](https://www.cryptostarship.ai/)**  
 **[Cup of Crypto](http://www.cupofcrypto.com/)**  
+**[Tales from the Crypto](http://shoutengine.com/TalesFromTheCrypto/)**  
 
 
 ## FAQ
