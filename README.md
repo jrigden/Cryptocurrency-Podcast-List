@@ -36,7 +36,7 @@ This is a list of all the podcast about cryptocurrency and the blockchain. This 
 
 **[Coin Mastery](https://itunes.apple.com/us/podcast/coin-mastery-building-your-cryptocurrency-empire/id1251624136?mt=2)**  
 **[Sane Crypto](https://sanecrypto.com/podcast/)**  
-**[The Trader Cobb Crypto Podcast](https://worldcryptonetwork.com/shows/today-in-bitcoin)**  
+**[The Trader Cobb Crypto Podcast](https://www.tradercobb.com/podcast/)**  
 
 
 ## Podcasts from Cryptocurrency and Blockchain Related Companies 
@@ -65,7 +65,7 @@ This is a list of all the podcast about cryptocurrency and the blockchain. This 
 **[Crypto Weekly](https://itunes.apple.com/us/podcast/crypto-weekly-cryptocurrency-bitcoin-ethereum-altcoin/id1351749137?mt=2&ign-mpt=uo%3D4)**   
 **[Daily Crypto](https://itunes.apple.com/us/podcast/daily-crypto-bitcoin-blockchain-ethereum-altcoin-digital/id1281929760?mt=2)**  
 **[HODL Daily](https://itunes.apple.com/us/podcast/hodl-daily-bitcoin-blockchain-cryptocurrency-ethereum/id1309178056?mt=2)**  
-
+ttps://worldcryptonetwork.com/shows/today-in-bitcoin
 
 
 
