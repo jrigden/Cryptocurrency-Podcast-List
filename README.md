@@ -1,5 +1,5 @@
 # The Cryptocurrency Podcast List
-This is a list of all the podcast about cryptocurrency and the blockchain. This is not a curated list. I would like this list to be as complete as possible. Although many shows may occasionally cover the crypto space this list is reserved for podcasts that primarily focus on this space. [Contributions, corrections, and suggestions are welcome](https://github.com/jrigden/Cryptocurrency-Podcast-List/issues/new). You can also DM me on Twitter: [@mr_rigden](https://twitter.com/mr_rigden)
+This is a list of all the podcasts about cryptocurrency and the blockchain. This is not a curated list. This list is intended to a a complete list. Although many shows may occasionally cover the crypto space this list is reserved for podcasts that primarily focus on this space. [Contributions, corrections, and suggestions are welcome](https://github.com/jrigden/Cryptocurrency-Podcast-List/issues/new). You can also DM me on Twitter: [@mr_rigden](https://twitter.com/mr_rigden)
 
 ## Podcasts about Cryptocurrency and the Blockchain 
 
