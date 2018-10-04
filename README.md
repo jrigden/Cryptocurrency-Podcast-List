@@ -16,11 +16,14 @@ You can also DM me on Twitter: [@mr_rigden](https://twitter.com/mr_rigden)
 **[Bitcoins and Gravy](http://bitcoinsandgravy.com/)**  
 **[Blockchain 2025](https://podcast.bitcoin.com/s9-Blockchain-2025)**  
 **[Blockchain Buzz](https://www.theblockchain-buzz.com/)**  
+**[Blockchain Radio](https://www.blockchain.radio/)**  
 **[The Blockchain Show](https://www.theblockchainshow.com/)**  
+**[Coin Boys](https://thecoinboys.com/)**  
 **[Coin DMZ](https://kenradio.podbean.com/)**  
 **[COIN TALK](https://itunes.apple.com/us/podcast/coin-talk/id1332061471?mt=2)**  
 **[Crypto 101](https://crypto101podcast.com/)**  
 **[Crypto and Blockchain Talk](http://cryptoandblockchaintalk.com/)**  
+**[The Crypto Sky](http://thecryptosky.com/)**  
 **[Cryptoknights](https://cryptoknights.io/)**  
 **[Cryptopulse](https://www.cryptopulse.co.uk/)**  
 **[CryptoBasics](https://www.cryptobasicpodcast.com/)**  
@@ -29,7 +32,9 @@ You can also DM me on Twitter: [@mr_rigden](https://twitter.com/mr_rigden)
 **[Flippening](https://itunes.apple.com/us/podcast/flippening-for-cryptocurrency-investors-bitcoin-ethereum/id1323372565?mt=2)**  
 **[ICO 101](http://ico101podcast.com/)**  
 **[ICO Alert](https://itunes.apple.com/us/podcast/ico-alert-podcast-cryptocurrency-blockchain-ico-interviews/id1247296251?mt=2&l=en&ign-mpt=uo%3D4)**  
+**[ICO Radio](https://icorad.io/)**  
 **[Let's Talk Bitcoin](https://itunes.apple.com/us/podcast/the-lets-talk-bitcoin-network/id640581455?mt=2&ign-mpt=uo%3D4)** **[Ledger Cast](https://itunes.apple.com/us/podcast/ledger-cast-cryptocurrency-trading-blockchain-ecosystem/id1322087447)**  
+**[The REKT Podcast](https://www.rektpodcast.com/)**  
 **[The Third Web](https://itunes.apple.com/us/podcast/the-third-web/id899090462?mt=2)**  
 **[Thriller Crypto](https://www.thrillerpodcast.club/)**  
 **[Today in Bitcoin](https://itunes.apple.com/us/podcast/the-third-web/id899090462?mt=2)**  
