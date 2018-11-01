@@ -73,7 +73,6 @@ You can also DM me on Twitter: [@mr_rigden](https://twitter.com/mr_rigden)
 **[Crypto Weekly](https://itunes.apple.com/us/podcast/crypto-weekly-cryptocurrency-bitcoin-ethereum-altcoin/id1351749137?mt=2&ign-mpt=uo%3D4)**   
 **[Daily Crypto](https://itunes.apple.com/us/podcast/daily-crypto-bitcoin-blockchain-ethereum-altcoin-digital/id1281929760?mt=2)**  
 **[HODL Daily](https://itunes.apple.com/us/podcast/hodl-daily-bitcoin-blockchain-cryptocurrency-ethereum/id1309178056?mt=2)**  
-ttps://worldcryptonetwork.com/shows/today-in-bitcoin
 
 
 
