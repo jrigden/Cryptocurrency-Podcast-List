@@ -35,6 +35,7 @@ You can also DM me on Twitter: [@mr_rigden](https://twitter.com/mr_rigden)
 **[ICO Radio](https://icorad.io/)**  
 **[Let's Talk Bitcoin](https://itunes.apple.com/us/podcast/the-lets-talk-bitcoin-network/id640581455?mt=2&ign-mpt=uo%3D4)** **[Ledger Cast](https://itunes.apple.com/us/podcast/ledger-cast-cryptocurrency-trading-blockchain-ecosystem/id1322087447)**  
 **[The REKT Podcast](https://www.rektpodcast.com/)**  
+**[SealCast](https://www.youtube.com/channel/UC2LF8DRmy-_30gmWY0QQECQ)**  
 **[The Third Web](https://itunes.apple.com/us/podcast/the-third-web/id899090462?mt=2)**  
 **[Thriller Crypto](https://www.thrillerpodcast.club/)**  
 **[Today in Bitcoin](https://itunes.apple.com/us/podcast/the-third-web/id899090462?mt=2)**  
